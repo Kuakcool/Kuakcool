@@ -1,11 +1,16 @@
-name = input("name: ")
-science = input("science: ")
-math = input("math: ")
-english = input("english: ")
-total = float(science) + float(math) + float(english)
+name = input("enter the name: ")
+science = input("grades in science: ")
+math = input("grades in math: ")
+english = input("grades in english: ")
+total = float(grades in science) + float(grades in math) + float(grades in english
+)
 average = float(total) / 3
 
+print(name" ,Francis James C. Torres")
+
 print(average)
+
+
 if average < 75:
     print("you failed!")
 if average > 75:
