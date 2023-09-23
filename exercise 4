@@ -23,9 +23,7 @@ while True:
         print('Invalid choice. Please enter "add", "delete", or "end".')
 
 print('Final records:', records)
-
-        print('Invalid choice, Please enter "1", "2", or "3" only')
-
+print('Invalid choice, Please enter "1", "2", or "3" only')
 print()
 print("Final Records: ", rcds)
 print()
